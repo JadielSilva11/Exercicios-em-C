@@ -1,2 +1,2 @@
 # Exercícios em C
- Listas de exercícios com diferentes conteúdos
+ Listas de exercícios com diferentes conteúdos em C.
