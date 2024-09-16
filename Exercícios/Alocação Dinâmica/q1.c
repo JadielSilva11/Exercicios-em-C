@@ -15,7 +15,7 @@ int main()
 
     for(int i=0;i<5;i++)
     {
-        p[i] = rand()% 5;
+        p[i] = rand()% 6+1;
 
         printf("%d\n", p[i]);
     }
